@@ -1,0 +1,6 @@
+{
+  "name": "Ghost Store",
+  "description": "Ghost Store is a beautiful, dark-themed APK Marketplace inspired by Google Play Store. Browse, search, filter, and download APKs dynamically updated via Pastebin JSON with DownloadManager support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
